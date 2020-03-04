@@ -22,7 +22,7 @@
 
 div .item:hover{
   background-color: black;
-  font-size: 30rem;
+  font-size: 30px;
   transition: 0.3s;
 }
 
